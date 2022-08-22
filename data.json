@@ -1,0 +1,739 @@
+{
+    "category": [
+        {
+            "id": "1",
+            "title": "Male Clothes",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_avatar/man_fashion.png",
+            "products": [
+                {
+                    "id": "1",
+                    "title": "Hoodie n",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/male/hoodie/hoodie-1.jpg"
+                },
+                {
+                    "id": "2",
+                    "title": "Jacket",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/male/jacket/jacket-1.jpg"
+                },
+                {
+                    "id": "3",
+                    "title": "Polo",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/male/polo/polo-1.jpg"
+                },
+                {
+                    "id": "4",
+                    "title": "Sock",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/male/socks/sock-1.jpg"
+                },
+                {
+                    "id": "5",
+                    "title": "T-Shirt",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/male/t-shirt/t-1.jpg"
+                },
+                {
+                    "id": "6",
+                    "title": "Underwear",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/male/underwear/udw-1.jpg"
+                },
+                {
+                    "id": "7",
+                    "title": "Yoga",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/male/yoga/yoga-1.jpg"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "title": "Female Clothes",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_avatar/woman_fashion.png",
+            "products": [
+                {
+                    "id": "1",
+                    "title": "Babydoll Shirt",
+                    "price": "5",
+                    "status": "For sell",
+                    "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/Female/ao%20nu/babydoll/babydoll1.jpg"
+                },
+                {
+                    "id": "2",
+                    "title": "Sweater",
+                    "price": "49",
+                    "status": "For sell",
+                    "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/Female/ao%20nu/sweater/sweater1.jpg"
+                },
+                {
+                    "id": "3",
+                    "title": "Hoodie",
+                    "price": "49",
+                    "status": "For sell",
+                    "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/Female/ao%20nu/hoodie/hoodie1.jpg"
+                },
+                {
+                    "id": "4",
+                    "title": "Jacket",
+                    "price": "49",
+                    "status": "For sell",
+                    "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/Female/ao%20nu/jacket/jacket1.jpg"
+                },
+                {
+                    "id": "5",
+                    "title": "Sport Bralet",
+                    "price": "Free",
+                    "status": "For sell",
+                    "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/Female/ao%20nu/sport-bralete/bralet1.jpg"
+                },
+                {
+                    "id": "6",
+                    "title": "Skirt",
+                    "price": "Free",
+                    "status": "For sell",
+                    "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/Female/quan%20nu/v%C3%A1y%20r%C3%BAt%20d%C3%A2y/v%C3%A1y-r%C3%BAt1.jpg"
+                },
+                {
+                    "id": "7",
+                    "title": "Sun Proff Coat",
+                    "price": "49",
+                    "status": "For sell",
+                    "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/Female/ao%20nu/sun%20proff%20coat/coat1.jpg"
+                },
+                {
+                    "id": "8",
+                    "title": "Dress",
+                    "price": "Free",
+                    "status": "For sell",
+                    "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/Female/quan%20nu/dress/dress1.jpg"
+                },
+                {
+                    "id": "9",
+                    "title": "Jean Baggy",
+                    "price": "39",
+                    "status": "Donate",
+                    "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/Female/quan%20nu/jean-baggy/baggy1.jpg"
+                },
+                {
+                    "id": "10",
+                    "title": "Brown Jean",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/Female/quan%20nu/jean-n%C3%A2u/jean-brown-1.jpg"
+                },
+                {
+                    "id": "11",
+                    "title": "Normal Jean",
+                    "price": "39",
+                    "status": "Donate",
+                    "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/Female/quan%20nu/jean-su%C3%B4ng/suong1.jpg"
+                },
+                {
+                    "id": "12",
+                    "title": "Not Really Normal Jean",
+                    "price": "39",
+                    "status": "Donate",
+                    "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/Female/quan%20nu/jeans/jeans1.jpg"
+                },
+                {
+                    "id": "13",
+                    "title": "Normal Pant",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/Female/quan%20nu/pants/pants1.jpg"
+                },
+                {
+                    "id": "14",
+                    "title": "Gray Short",
+                    "price": "39",
+                    "status": "Donate",
+                    "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/Female/quan%20nu/qu%E1%BA%A7n-short-x%C3%A1m/gray-short-1.jpg"
+                },
+                {
+                    "id": "15",
+                    "title": "Black Short",
+                    "price": "5",
+                    "status": "Donate",
+                    "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/Female/quan%20nu/qu%E1%BA%A7n-short-%C4%91en/black-short-1.jpg"
+                },
+                {
+                    "id": "16",
+                    "title": "Shirt Dress",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/Female/quan%20nu/shirt-dress/shirt-dress1.jpg"
+                },
+                {
+                    "id": "17",
+                    "title": "Slacks",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/Female/quan%20nu/slacks/slacks1.jpg"
+                },
+                {
+                    "id": "18",
+                    "title": "Trouser",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/Female/quan%20nu/trousers/trousers1.jpg"
+                },
+                {
+                    "id": "19",
+                    "title": "Croptop",
+                    "price": "49",
+                    "status": "Donate",
+                    "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/Female/ao%20nu/croptop/croptop1.jpg"
+                },
+                {
+                    "id": "20",
+                    "title": "Cardian",
+                    "price": "5",
+                    "status": "Donate",
+                    "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/Female/ao%20nu/cardigan/cardigan1.jpg"
+                },
+                {
+                    "id": "21",
+                    "title": "Yoga",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/Female/ao%20nu/anorak/anorak1.jpg"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "title": "Kid Clothes",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_avatar/baby_fashion-2.png",
+            "products": [
+                {
+                    "id": "1",
+                    "title": "Caro dress",
+                    "price": "29",
+                    "status": "For sell",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "2",
+                    "title": "Dress with flower",
+                    "price": "29",
+                    "status": "For sell",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "3",
+                    "title": "Dress with prince purple",
+                    "price": "29",
+                    "status": "For sell",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "4",
+                    "title": "Dress with prince yellow",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "5",
+                    "title": "Fish tale dress",
+                    "price": "29",
+                    "status": "For sell",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "6",
+                    "title": "68 short",
+                    "price": "33",
+                    "status": "For sell",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "7",
+                    "title": "Kaki short",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "8",
+                    "title": "Short pant button",
+                    "price": "15",
+                    "status": "For sell",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "9",
+                    "title": "Short pant",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "10",
+                    "title": "Short",
+                    "price": "15",
+                    "status": "For sell",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "11",
+                    "title": "Box shirt",
+                    "price": "15",
+                    "status": "For sell",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "12",
+                    "title": "Bright shirt",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "13",
+                    "title": "Color shirt",
+                    "price": "15",
+                    "status": "For sell",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "14",
+                    "title": "Ican shirt",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "15",
+                    "title": "Snooper shirt",
+                    "price": "55",
+                    "status": "For sell",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "16",
+                    "title": "Univer shirt",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "17",
+                    "title": "Prince suit green",
+                    "price": "55",
+                    "status": "For sell",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "18",
+                    "title": "Prince suit",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "19",
+                    "title": "Soft suit",
+                    "price": "55",
+                    "status": "For sell",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "20",
+                    "title": "Suit woth unicorn green",
+                    "price": "55",
+                    "status": "For sell",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "21",
+                    "title": "Suit woth unicorn",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "22",
+                    "title": "Summer suit",
+                    "price": "33",
+                    "status": "For sell",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "23",
+                    "title": "Wide suit",
+                    "price": "33",
+                    "status": "For sell",
+                    "imgUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "title": "Male Shoes",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_avatar/man_shoes.png",
+            "products": [
+                {
+                    "id": "1",
+                    "title": "Face",
+                    "price": "69",
+                    "status": "For sell",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "2",
+                    "title": "White",
+                    "price": "69",
+                    "status": "For sell",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "3",
+                    "title": "Black",
+                    "price": "99",
+                    "status": "For sell",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "4",
+                    "title": "Nike max",
+                    "price": "69",
+                    "status": "For sell",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "5",
+                    "title": "Nike90",
+                    "price": "99",
+                    "status": "For sell",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "6",
+                    "title": "Nike270",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "title": "Female Shoes",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_avatar/woman_shoes.png",
+            "products": [
+                {
+                    "id": "1",
+                    "title": "Jodan 01",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "2",
+                    "title": "Jodan 02",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "3",
+                    "title": "Jodan 03",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "4",
+                    "title": "Jodan 04",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "5",
+                    "title": "Jodan 05",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "6",
+                    "title": "Jodan 06",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "7",
+                    "title": "Jodan 07",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "8",
+                    "title": "Jodan 07",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "title": "Bag & Backpack",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_avatar/bag.png",
+            "products": [
+                {
+                    "id": "1",
+                    "title": "Black bag",
+                    "price": "66",
+                    "status": "For sell",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "2",
+                    "title": "Charles bag",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "3",
+                    "title": "Clutch bag",
+                    "price": "66",
+                    "status": "For sell",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "4",
+                    "title": "Coach wallet",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "5",
+                    "title": "Coach bag",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "6",
+                    "title": "Juno bag",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "7",
+                    "title": "Leather bag",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "8",
+                    "title": "Mahegin bag",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "9",
+                    "title": "Mstaly bag",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "10",
+                    "title": "Pgn bag",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "11",
+                    "title": "Picnic bag",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "12",
+                    "title": "Sphine bag",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "title": "Accessories",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_avatar/accessories.png",
+            "products": [
+                {
+                    "id": "1",
+                    "title": "Non la",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "2",
+                    "title": "Mu coi",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "3",
+                    "title": "Murach",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "4",
+                    "title": "Non nu",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "5",
+                    "title": "Rong vanh",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "6",
+                    "title": "Dior",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "7",
+                    "title": "Trang",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "8",
+                    "title": "Uniqlo",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "9",
+                    "title": "Berret",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "10",
+                    "title": "Fer",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "11",
+                    "title": "Lv",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "12",
+                    "title": "Mubo",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "13",
+                    "title": "Nike",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "14",
+                    "title": "Nonson",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "title": "Other",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_avatar/other.png",
+            "products": [
+                {
+                    "id": "1",
+                    "title": "Silver eardrop",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "2",
+                    "title": "Chanel eardrop",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "3",
+                    "title": "Combo eardrop",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "4",
+                    "title": "Pearl eardrop",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "5",
+                    "title": "Heart eardrop",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                },
+                {
+                    "id": "6",
+                    "title": "Golden eardrop",
+                    "price": "Free",
+                    "status": "Donate",
+                    "imgUrl": ""
+                }
+            ]
+        }
+    ]
+}
